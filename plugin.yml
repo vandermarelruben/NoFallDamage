@@ -1,0 +1,6 @@
+name: NoFall
+author: NCR-Games
+main: NoFall\Main
+version: 1.0
+api: [3.0.0-ALPHA12]
+description: NoFall plugin to disable fall damage.
